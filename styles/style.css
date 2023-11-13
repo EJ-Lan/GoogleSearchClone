@@ -66,3 +66,26 @@ ul {
     padding: 0;
     gap: 16px;
 }
+
+#advanced-heading {
+    color: red;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.advanced-input {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    gap: 16px;
+    margin: 16px;
+    padding: 8px 16px;
+    color: lightslategrey;
+}
+
+#advanced-search {
+    background-color: rgb(26,115, 232);
+    color: white;
+    width: 200px;
+}
