@@ -20,5 +20,5 @@ GoogleSearchClone is a front-end replication of Google's Search, Image Search, a
 To view or use the GoogleSearchClone, simply clone this repository and open the `index.html` file in a web browser.
 
 ```bash
-git clone [repository-url]
+git clone git@github.com:EJ-Lan/GoogleSearchClone.git
 
